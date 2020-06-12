@@ -1,3 +1,5 @@
+![Bridge](docs/images/Bridge.png)
+
 ## Bridge
 
 The Crowdfuding platform for NGO's. Contribute to what matters the most.
