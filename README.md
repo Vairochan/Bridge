@@ -15,7 +15,7 @@ The Crowdfuding platform for NGO's. Contribute to what matters the most.
 
 ## Join the mailing list 
 
-Join the slack channel [https://join.slack.com/t/thekitefoundation/shared_invite/zt-f285idyr-UiTMN5Ms8vSUHHa9DbPfBA](here).
+Join the slack channel [here](https://join.slack.com/t/thekitefoundation/shared_invite/zt-f285idyr-UiTMN5Ms8vSUHHa9DbPfBA).
 
 ## Contributing
 
