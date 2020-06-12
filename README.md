@@ -1,4 +1,6 @@
-![Bridge](docs/images/Bridge.png)
+<p align="center">
+	<img src="docs/images/Bridge.png"/>
+</p>
 
 ## Bridge
 
