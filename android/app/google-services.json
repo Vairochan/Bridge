@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "139915810035",
+    "firebase_url": "https://kite-foundation.firebaseio.com",
+    "project_id": "kite-foundation",
+    "storage_bucket": "kite-foundation.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139915810035:android:ef0e0793562d206d735386",
+        "android_client_info": {
+          "package_name": "com.example.bridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139915810035-goctur7fo4ajfq6li2km0bhvf07o0297.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bridge",
+            "certificate_hash": "9703ba340d1a845143c78a0eba0dbd2e8c9583cd"
+          }
+        },
+        {
+          "client_id": "139915810035-1dbi0r6tc0q1arjt8htv2mq2dtbk9pek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhhKl-M6JeEO7DQFYkZyTSydIT32dQVTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139915810035-1dbi0r6tc0q1arjt8htv2mq2dtbk9pek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
